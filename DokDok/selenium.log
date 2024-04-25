@@ -1,0 +1,520 @@
+10:56:30.727 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+10:56:44.317 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.ClinicChatBlockUnblockForPatientTests - Start Test
+10:57:03.675 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.ClinicChatBlockUnblockForPatientTests - Admin login success
+10:57:07.335 [main] DEBUG PageObjects.AdminHomePage - Clicked on a Disable chat
+10:57:09.547 [main] INFO  PageObjects.AdminHomePage - Chat disabled successfully
+10:57:42.668 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.ClinicChatBlockUnblockForPatientTests - Patient login success
+10:57:42.689 [main] INFO  PageObjects.PatientHomePage - Patient's chat has been successfully disabled!!
+10:58:22.315 [main] ERROR PageObjects.BasePage - Welcome not shown 
+10:58:22.315 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.ClinicChatBlockUnblockForPatientTests - Again Admin login success
+10:58:25.602 [main] DEBUG PageObjects.AdminHomePage - Clicked on a Disable chat
+10:58:27.791 [main] INFO  PageObjects.AdminHomePage - Chat enabled successfully
+10:58:39.029 [main] DEBUG PageObjects.AdminHomePage - Logged out from admin 2nd time
+10:59:07.798 [main] ERROR PageObjects.BasePage - Welcome not shown 
+10:59:07.798 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.ClinicChatBlockUnblockForPatientTests - Again Patient login success
+10:59:15.547 [main] INFO  PageObjects.PatientHomePage - sent msg to the doctor, Patient's chat has been successfully enabled!!
+11:41:15.928 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:41:37.782 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:41:52.167 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:42:10.372 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:42:19.171 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:42:31.824 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.AdminEditUserProfileAndCancelEditTests - Start Test
+11:42:54.844 [main] INFO  PageObjects.AdminHomePage - CLICKED PATIENT TAB SUCCESS
+11:43:10.037 [main] DEBUG PageObjects.AdminHomePage - Clickd on patient
+11:43:14.229 [main] DEBUG PageObjects.AdminHomePage - Show More Success..
+11:43:16.630 [main] DEBUG PageObjects.AdminHomePage - Edit btn clicked
+11:43:20.438 [main] DEBUG PageObjects.AdminHomePage - salutation done
+11:43:23.003 [main] DEBUG PageObjects.AdminHomePage - firstname done
+11:43:26.055 [main] DEBUG PageObjects.AdminHomePage - lastname done
+11:43:29.622 [main] DEBUG PageObjects.AdminHomePage - birthday done
+11:43:33.990 [main] DEBUG PageObjects.AdminHomePage - clicked dropdown
+11:43:36.111 [main] DEBUG PageObjects.AdminHomePage - gender value: FEMALE
+11:43:36.111 [main] DEBUG PageObjects.AdminHomePage - second
+11:43:36.111 [main] DEBUG PageObjects.AdminHomePage - After update val://span[text()='Male']
+11:43:40.132 [main] DEBUG PageObjects.AdminHomePage - selected option:[[ChromeDriver: chrome on windows (a215b8d02627927f573db6e680f54e4e)] -> xpath: //span[text()='Male']]
+11:43:40.344 [main] DEBUG PageObjects.AdminHomePage - clicked option
+11:43:43.183 [main] DEBUG PageObjects.AdminHomePage - insurance no done
+11:43:45.783 [main] DEBUG PageObjects.AdminHomePage - patient num done
+11:43:48.140 [main] INFO  PageObjects.AdminHomePage - Successfully saved primary fields..
+11:44:10.095 [main] INFO  PageObjects.AdminHomePage - Cancel btn click for primary fields success
+11:44:10.095 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.AdminEditUserProfileAndCancelEditTests - End Test
+11:44:20.288 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:44:32.491 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CatalogTests - Start Test
+11:44:57.230 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CatalogTests - Admin login success
+11:44:59.591 [main] DEBUG PageObjects.AdminHomePage - Clicked on uplaod catalog
+12:08:39.140 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:09:04.435 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:09:06.378 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:10:34.652 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:10:56.187 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:10:58.970 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:11:04.033 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:11:06.970 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:11:23.796 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:11:29.995 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:11:51.157 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:11:57.967 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:12:00.036 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.AdminEditUserProfileAndCancelEditTests - Start Test
+12:12:54.100 [main] INFO  PageObjects.AdminHomePage - CLICKED PATIENT TAB SUCCESS
+12:13:11.225 [main] DEBUG PageObjects.AdminHomePage - Clickd on patient
+12:13:16.329 [main] DEBUG PageObjects.AdminHomePage - Show More Success..
+12:13:19.169 [main] DEBUG PageObjects.AdminHomePage - Edit btn clicked
+12:13:24.577 [main] DEBUG PageObjects.AdminHomePage - salutation done
+12:13:27.494 [main] DEBUG PageObjects.AdminHomePage - firstname done
+12:13:31.254 [main] DEBUG PageObjects.AdminHomePage - lastname done
+12:13:35.275 [main] DEBUG PageObjects.AdminHomePage - birthday done
+12:13:39.908 [main] DEBUG PageObjects.AdminHomePage - clicked dropdown
+12:13:42.011 [main] DEBUG PageObjects.AdminHomePage - gender value: MALE
+12:13:42.011 [main] DEBUG PageObjects.AdminHomePage - first..
+12:13:42.011 [main] DEBUG PageObjects.AdminHomePage - After update val://span[text()='Female']
+12:13:46.074 [main] DEBUG PageObjects.AdminHomePage - selected option:[[ChromeDriver: chrome on windows (04bfe2ef6d39e852de55d9d9d4eb6b11)] -> xpath: //span[text()='Female']]
+12:13:46.340 [main] DEBUG PageObjects.AdminHomePage - clicked option
+12:13:49.597 [main] DEBUG PageObjects.AdminHomePage - insurance no done
+12:13:52.579 [main] DEBUG PageObjects.AdminHomePage - patient num done
+12:13:55.106 [main] INFO  PageObjects.AdminHomePage - Successfully saved primary fields..
+12:14:17.963 [main] INFO  PageObjects.AdminHomePage - Cancel btn click for primary fields success
+12:14:17.963 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.AdminEditUserProfileAndCancelEditTests - End Test
+12:14:19.746 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:14:24.555 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:14:35.125 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CatalogTests - Start Test
+12:15:06.221 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CatalogTests - Admin login success
+12:15:10.829 [main] DEBUG PageObjects.AdminHomePage - Clicked on uplaod catalog
+12:15:28.716 [main] DEBUG PageObjects.AdminHomePage - selected study
+12:15:29.882 [main] DEBUG PageObjects.AdminHomePage - ends dropdown selection
+12:15:35.771 [main] INFO  PageObjects.AdminHomePage - Catalog uploaded successfully
+12:15:59.821 [main] DEBUG PageObjects.AdminHomePage - AutomationCatalog-3LZKJ
+12:16:48.419 [main] DEBUG PageObjects.DoctorHomePage - Selected checkbox
+12:16:51.171 [main] INFO  PageObjects.DoctorHomePage - Clicked on Send button
+12:17:32.765 [main] ERROR PageObjects.BasePage - Welcome not shown 
+12:17:32.765 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CatalogTests - Admin login success
+12:17:33.634 [main] DEBUG PageObjects.AdminHomePage - search btn clicked
+12:18:19.253 [main] INFO  PageObjects.AdminHomePage - Catalog updated successfully
+12:18:23.010 [main] DEBUG PageObjects.AdminHomePage - search btn clicked
+12:21:32.315 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyAdminUploadEditCatalog20240417-122132.png
+12:21:36.691 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:21:48.889 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:22:20.231 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateClinicTests - Start Test
+12:22:48.169 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateClinicTests - Admin login success
+12:22:50.495 [main] DEBUG PageObjects.AdminHomePage - CLINIC clicked
+12:23:06.218 [main] DEBUG PageObjects.AdminHomePage - Success CLINIC popup opens
+12:23:09.559 [main] DEBUG PageObjects.AdminHomePage - AutomationClinic
+12:24:03.705 [main] DEBUG PageObjects.AdminHomePage - Successfully filled the clinic name..
+12:25:28.630 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:25:46.440 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:26:03.789 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Start Test
+12:26:27.563 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Admin login success
+12:26:45.347 [main] INFO  PageObjects.AdminHomePage - called mpa salutation set
+12:38:06.236 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:38:32.582 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Start Test
+12:38:55.180 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Admin login success
+12:39:11.902 [main] INFO  PageObjects.AdminHomePage - called mpa salutation set
+12:40:40.652 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:41:12.141 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:41:13.866 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:41:41.756 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:41:43.694 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:42:13.146 [main] INFO  UiRegressionTests.ChLoginBaseTest - driver quit
+12:42:14.716 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:24:19.166 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:24:47.684 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+15:25:10.477 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+15:25:12.963 [main] INFO  PageObjects.AdminHomePage - CLICKED PATIENT TAB SUCCESS
+15:25:13.251 [main] INFO  PageObjects.AdminHomePage - Clicked on App activated filter
+15:25:16.309 [main] INFO  PageObjects.AdminHomePage - Verified that this page has not any ACTIVATED STATUS for a paient
+15:25:16.628 [main] DEBUG PageObjects.AdminHomePage - Cliked on More svg menu opens
+15:25:21.877 [main] DEBUG PageObjects.AdminHomePage - Cliked on renew invitation btn..
+15:25:21.879 [main] DEBUG PageObjects.AdminHomePage - Enter in try block
+15:25:24.110 [main] INFO  PageObjects.AdminHomePage - Invitation App Message is successfully verified
+15:29:32.511 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:29:39.594 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+15:30:00.271 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+15:30:02.583 [main] INFO  PageObjects.AdminHomePage - CLICKED PATIENT TAB SUCCESS
+15:30:02.736 [main] INFO  PageObjects.AdminHomePage - Clicked on App activated filter
+15:30:05.769 [main] INFO  PageObjects.AdminHomePage - Verified that this page has not any ACTIVATED STATUS for a paient
+15:30:05.973 [main] DEBUG PageObjects.AdminHomePage - Cliked on More svg menu opens
+15:30:11.106 [main] DEBUG PageObjects.AdminHomePage - Cliked on renew invitation btn..
+15:30:11.106 [main] DEBUG PageObjects.AdminHomePage - Enter in try block
+15:30:13.195 [main] INFO  PageObjects.AdminHomePage - Invitation App Message is successfully verified
+15:40:38.943 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:40:45.329 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+15:41:46.724 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:41:53.590 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+15:42:10.558 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+15:42:23.998 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+15:46:11.664 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:46:19.784 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+15:46:43.198 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+15:47:00.123 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+16:09:08.945 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+16:22:32.840 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+16:28:33.110 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+16:57:24.422 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+16:57:26.349 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+16:58:17.094 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyThatDoctorNotSendAppInvitationToPatientWhichPatientAppActivated20240417-165817.png
+17:10:30.826 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+17:10:32.500 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+17:10:58.489 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+17:11:11.677 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+17:11:51.953 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+17:12:03.182 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+17:12:19.152 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+17:12:32.343 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+18:41:55.343 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:42:08.336 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+18:42:26.825 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+18:42:29.044 [main] DEBUG PageObjects.AdminHomePage - CLICKED USERS TAB SUCCESS
+18:42:29.179 [main] DEBUG PageObjects.AdminHomePage - Clicked on App activated filter
+18:44:12.449 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyThatTheAdminSendAppInvitationToUsersTabUser20240417-184412.png
+18:45:27.481 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:45:37.555 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+18:45:55.749 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+18:45:57.971 [main] DEBUG PageObjects.AdminHomePage - CLICKED USERS TAB SUCCESS
+18:45:58.104 [main] DEBUG PageObjects.AdminHomePage - Clicked on App activated filter
+18:49:01.160 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:49:11.705 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+18:49:29.894 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+18:49:32.147 [main] DEBUG PageObjects.AdminHomePage - CLICKED USERS TAB SUCCESS
+18:49:32.287 [main] DEBUG PageObjects.AdminHomePage - Clicked on App activated filter
+18:49:36.311 [main] DEBUG PageObjects.AdminHomePage - Verified that this page has not any ACTIVATED STATUS for a user
+18:49:36.416 [main] DEBUG PageObjects.AdminHomePage - Cliked on More svg menu opens
+18:49:38.560 [main] INFO  PageObjects.AdminHomePage - Cliked on renew invitation btn..
+18:49:38.560 [main] DEBUG PageObjects.AdminHomePage - Enter in try block
+18:49:41.616 [main] DEBUG PageObjects.AdminHomePage - Invitation App Message is successfully verified
+18:50:06.051 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+18:50:16.695 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+18:58:25.650 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:58:38.343 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+18:58:54.370 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+18:58:56.861 [main] INFO  PageObjects.DoctorHomePage - Clicked on App activated filter
+18:59:00.928 [main] INFO  PageObjects.DoctorHomePage - Activated Status found. Not sending App Invitation to PATIENT.
+18:59:41.039 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+18:59:42.881 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:01:13.246 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+19:01:44.110 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:02:16.578 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:02:31.036 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:02:47.559 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+19:03:03.788 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+19:05:47.877 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:05:58.898 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:06:14.930 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+19:06:31.074 [main] INFO  PageObjects.DoctorHomePage - Passed: App is Activated, Renew invitation element is disabled.
+19:06:35.514 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:06:46.756 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:07:06.244 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+19:07:08.494 [main] INFO  PageObjects.AdminHomePage - CLICKED PATIENT TAB SUCCESS
+19:07:08.640 [main] INFO  PageObjects.AdminHomePage - Clicked on App activated filter
+19:07:12.680 [main] INFO  PageObjects.AdminHomePage - Verified that this page has not any ACTIVATED STATUS for a paient
+19:07:12.856 [main] DEBUG PageObjects.AdminHomePage - Cliked on More svg menu opens
+19:07:17.980 [main] DEBUG PageObjects.AdminHomePage - Cliked on renew invitation btn..
+19:07:17.980 [main] DEBUG PageObjects.AdminHomePage - Enter in try block
+19:07:18.054 [main] INFO  PageObjects.AdminHomePage - Invitation App Message is successfully verified
+19:07:21.829 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:07:34.704 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:07:53.903 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Admin login success
+19:07:56.258 [main] DEBUG PageObjects.AdminHomePage - CLICKED USERS TAB SUCCESS
+19:07:56.417 [main] DEBUG PageObjects.AdminHomePage - Clicked on App activated filter
+19:08:00.438 [main] DEBUG PageObjects.AdminHomePage - Verified that this page has not any ACTIVATED STATUS for a user
+19:08:00.649 [main] DEBUG PageObjects.AdminHomePage - Cliked on More svg menu opens
+19:08:02.948 [main] INFO  PageObjects.AdminHomePage - Cliked on renew invitation btn..
+19:08:02.949 [main] DEBUG PageObjects.AdminHomePage - Enter in try block
+19:08:05.991 [main] DEBUG PageObjects.AdminHomePage - Invitation App Message is successfully verified
+19:08:09.613 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:08:23.256 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Start Test
+19:08:40.490 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.SendAppInvitationToPatientTests - Doctor login success
+19:08:42.885 [main] INFO  PageObjects.DoctorHomePage - Clicked on App activated filter
+19:08:46.917 [main] INFO  PageObjects.DoctorHomePage - Activated Status found. Not sending App Invitation to PATIENT.
+10:25:22.306 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+10:26:08.212 [main] INFO  PageObjects.DoctorHomePage - +180040811
+10:28:55.195 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+10:29:00.920 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreatePhysicianTests - Start Test
+10:29:18.174 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreatePhysicianTests - Admin login success
+10:29:22.258 [main] INFO  PageObjects.AdminHomePage - called physician click method
+10:29:32.846 [main] INFO  PageObjects.AdminHomePage - called physician salutation set
+10:50:43.155 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+10:50:49.802 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Start Test
+10:51:07.870 [main] INFO  UiRegressionTests.WebTests.AdminDashboardTests.CreateMPATests - Admin login success
+10:51:23.478 [main] INFO  PageObjects.AdminHomePage - called mpa salutation set
+10:52:57.195 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+10:53:02.880 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.CreatePatientProxyTests - Start Test
+10:53:18.745 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.CreatePatientProxyTests - login success
+11:20:57.910 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:21:03.855 [main] INFO  UiRegressionTests.WebTests.PatientDashboardTests.HomeScreenTests.PateintHomeScreenTests - Start Test
+11:21:24.839 [main] DEBUG PageObjects.PatientHomePage - Checked Patient Page
+11:21:25.296 [main] DEBUG PageObjects.PatientHomePage - Checked Messages Page
+11:21:25.674 [main] DEBUG PageObjects.PatientHomePage - Checked Profile Page
+11:21:26.271 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyTappingOnEachFeatureShouldNavigateToRespectiveScreensForPatient20240418-112126.png
+11:32:07.004 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:32:14.853 [main] INFO  UiRegressionTests.WebTests.PatientDashboardTests.HomeScreenTests.PateintHomeScreenTests - Start Test
+11:32:39.376 [main] DEBUG PageObjects.PatientHomePage - Checked Patient Page
+11:32:40.246 [main] DEBUG PageObjects.PatientHomePage - Checked Messages Page
+11:32:40.622 [main] DEBUG PageObjects.PatientHomePage - Checked Profile Page
+11:32:41.166 [main] DEBUG PageObjects.PatientHomePage - Checked Appointments Page
+11:42:50.415 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:42:57.537 [main] INFO  UiRegressionTests.WebTests.PatientDashboardTests.HomeScreenTests.PateintHomeScreenTests - Start Test
+11:43:23.912 [main] DEBUG PageObjects.PatientHomePage - Checked Patient Page
+11:43:24.883 [main] DEBUG PageObjects.PatientHomePage - Checked Messages Page
+11:43:25.301 [main] DEBUG PageObjects.PatientHomePage - Checked Profile Page
+11:44:30.682 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+11:44:37.084 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+11:46:08.818 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-114608.png
+12:00:42.449 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:00:44.284 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:04:28.637 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:04:34.658 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:10:02.603 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:10:18.825 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:11:14.526 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-121114.png
+12:14:04.056 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:14:10.035 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:16:09.124 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-121609.png
+12:21:14.197 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:21:15.999 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:22:13.688 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:22:19.704 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:23:50.488 [main] INFO  PageObjects.DoctorHomePage - Alert text: Are you sure?
+12:23:50.600 [main] INFO  PageObjects.DoctorHomePage - alert accepted
+12:43:14.717 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:43:21.193 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:44:41.676 [main] INFO  PageObjects.DoctorHomePage - Alert text: Are you sure?
+12:44:41.687 [main] INFO  PageObjects.DoctorHomePage - alert accepted
+12:46:15.914 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://qa.dev.docdok.ch/
+12:46:18.097 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:47:43.869 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:47:52.823 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:50:23.484 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-125023.png
+12:56:16.153 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+12:56:22.656 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+12:57:24.793 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-125724.png
+13:00:32.587 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:00:39.605 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+13:04:11.594 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(text(), 'Delete')] (tried for 120 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50771}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50771/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 90b653e9408b0f21909105f4bd7da1af
+13:04:13.928 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-130413.png
+13:08:54.271 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:09:00.716 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+13:12:41.938 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: Expected condition failed: waiting for alert to be present (tried for 120 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51134}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51134/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e35d752eb98a8fe42d4d8dfe828f4006
+13:12:44.340 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-131244.png
+13:15:08.585 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:15:15.187 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+13:18:01.672 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:18:08.150 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+13:19:37.939 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+13:21:38.027 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: Expected condition failed: waiting for alert to be present (tried for 120 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51439}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51439/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 30bd6c0ee46f13f3c098af09bf03e054
+13:21:40.344 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-132140.png
+14:26:41.993 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+14:27:05.706 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+14:27:32.802 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-142732.png
+14:29:00.323 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+14:30:05.203 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+14:32:02.181 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+14:34:02.570 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: Expected condition failed: waiting for alert to be present (tried for 120 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51590}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51590/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 871bcf30f20741342699c957867e502c
+14:34:04.862 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-143404.png
+14:49:59.750 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+14:50:19.751 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+14:50:51.272 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-145051.png
+14:51:58.193 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+14:54:17.851 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+14:54:48.777 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-145448.png
+14:59:01.941 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:03:45.520 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:03:52.147 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:05:22.062 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+15:05:22.237 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [312a9a602fb175a8c02c5b9aebed44d1, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51877}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51877/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312a9a602fb175a8c02c5b9aebed44d1
+15:05:24.560 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-150524.png
+15:17:33.120 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:17:41.824 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:18:41.548 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-151841.png
+15:38:08.824 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:38:17.364 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:39:17.544 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-153917.png
+15:41:51.472 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:41:58.124 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:43:28.384 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+15:43:33.414 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [995acbdf32f012f446b63c7caf687e5a, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52130}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52130/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 995acbdf32f012f446b63c7caf687e5a
+15:43:35.725 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-154335.png
+15:48:33.957 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:48:39.899 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:50:16.081 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+15:50:21.108 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [06532aec9b2e5c435f677bc51fef57f3, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52165/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 06532aec9b2e5c435f677bc51fef57f3
+15:50:23.489 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-155023.png
+15:52:00.125 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+15:52:09.634 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+15:53:49.269 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+15:53:54.301 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d269cbb56a68e946962131d27e39a66a, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52209}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52209/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d269cbb56a68e946962131d27e39a66a
+15:53:56.640 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-155356.png
+16:07:51.045 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+16:07:59.664 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+16:09:32.261 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+16:09:32.367 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [895975ee2835879de14b5541e3572a35, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52640/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 895975ee2835879de14b5541e3572a35
+16:09:34.883 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-160934.png
+16:12:06.322 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+16:12:08.062 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+16:13:11.306 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-161311.png
+16:14:30.178 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+16:14:31.945 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+16:16:05.996 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+16:16:06.262 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-161606.png
+16:26:31.627 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+16:26:40.172 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+16:28:44.315 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+16:28:48.564 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-162848.png
+16:44:47.910 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+16:44:56.209 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+16:46:25.465 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+16:46:27.490 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [307530de5cda7c4373645028d8ecdfa1, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52830}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52830/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 307530de5cda7c4373645028d8ecdfa1
+16:46:29.847 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-164629.png
+17:10:55.518 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+17:11:03.682 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+17:12:33.372 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+17:12:35.395 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fc5aa2c06ac0dda29a8dcdf88e611ebd, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53341}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53341/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fc5aa2c06ac0dda29a8dcdf88e611ebd
+17:12:37.838 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-171237.png
+17:40:04.688 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+17:40:13.143 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+17:41:43.037 [main] INFO  PageObjects.DoctorHomePage - delete btn clicked
+17:41:45.069 [main] INFO  PageObjects.DoctorHomePage - Test execution failed: no such alert
+  (Session info: chrome-headless-shell=123.0.6312.123)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0148b34ed5ca236a08bddbf6ba96e4e5, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 123.0.6312.123, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\Hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 123.0.6312.123, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0148b34ed5ca236a08bddbf6ba96e4e5
+17:41:47.398 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-174147.png
+18:09:30.458 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:09:39.905 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:11:12.759 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-181112.png
+18:13:55.736 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:14:01.577 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:23:50.932 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:23:55.044 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:25:30.903 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+18:25:32.149 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-182532.png
+18:29:51.970 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:29:58.208 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:31:39.432 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+18:31:40.406 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-183140.png
+18:38:12.509 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:38:14.301 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:39:47.222 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+18:39:48.210 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-183948.png
+18:46:22.538 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:46:31.048 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:47:56.106 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+18:48:00.918 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+18:48:00.987 [main] INFO  PageObjects.DoctorHomePage - After delete:3
+18:48:02.015 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-184802.png
+18:52:58.845 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:53:05.338 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+18:54:32.115 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+18:54:39.853 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+18:54:39.942 [main] INFO  PageObjects.DoctorHomePage - After delete:0
+18:54:40.266 [main] INFO  UiRegressionTests.ChLoginBaseTest - Screenshot saved: D:\Yogesh\DocDok\docdok\testing-automation\testing-automation\Screenshot\shouldVerifyEventValidation20240418-185440.png
+18:58:50.063 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+18:58:56.510 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:00:23.378 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:00:31.115 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:00:39.580 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:00:39.580 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+19:02:23.825 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:02:25.530 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:03:54.872 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:04:02.977 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:04:10.488 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:04:10.488 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+19:09:55.962 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:10:15.010 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:11:32.297 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:11:38.137 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:11:43.344 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:11:43.344 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+19:12:57.944 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:13:08.144 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:14:31.757 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:14:38.011 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:14:45.866 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:14:45.866 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+19:24:21.091 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:24:22.813 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:25:57.419 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:26:05.436 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:26:15.976 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:26:15.976 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+19:29:00.710 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+19:29:06.788 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+19:30:32.217 [main] INFO  PageObjects.DoctorHomePage - Before delete:3
+19:30:40.028 [main] INFO  PageObjects.DoctorHomePage - Got the delete alert for an event and accepted successfully
+19:30:47.308 [main] INFO  PageObjects.DoctorHomePage - After delete:2
+19:30:47.309 [main] INFO  PageObjects.DoctorHomePage - Event is successfully deleted
+13:34:22.141 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:34:26.750 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
+13:35:18.203 [main] INFO  UiRegressionTests.ChLoginBaseTest - URL is: https://stage.docdok.ch/
+13:35:22.686 [main] INFO  UiRegressionTests.WebTests.DoctorDashboradTests.SalutaDoctorDashboardTests.EventsTests - Start Test
